@@ -7,4 +7,4 @@
 1. Curious to explore the world of **Al/ML**.
 1. Python is my first and favourite language.
 
-   Let's code and grow
+   Let's code and grow :thumbsup:
