@@ -13,7 +13,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav11234&show_icons=true" />
 </a>
 <a href="https://github.com/abhinav11234/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav11234&layout=compact&langs_count=8&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav11234&layout=compact&langs_count=8&card_width=250" />
 </a>
 
 ### Recent Activity
