@@ -8,14 +8,18 @@
 1. Python is my first and favourite language.
 
    Let's code and grow :thumbsup:
-
+<table>
+   <tr>
 <a href="https://github.com/abhinav11234/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav11234&show_icons=true" />
 </a>
+   </tr>
+   <tr>
 <a href="https://github.com/abhinav11234/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav11234&layout=compact&langs_count=8&card_width=250" />
 </a>
-
+   </tr>
+</table>
 ### Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
