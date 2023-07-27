@@ -20,6 +20,5 @@
 </a>
    </tr>
 </table>
-### Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhinav11234&card_width=496)](https://git.io/streak-stats)
