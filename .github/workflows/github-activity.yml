@@ -1,0 +1,29 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    # Set the interval (e.g., every 30 minutes)
+    - cron: "*/30 * * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository code
+        uses: actions/checkout@v2
+
+      - name: Update README with GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        with:
+          # Customize the options if needed
+          token: ${{ secrets.GITHUB_TOKEN }}
+          max_events: 5
+          feed_types: user, public
+
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "Update GitHub activity in README"
+          git push
