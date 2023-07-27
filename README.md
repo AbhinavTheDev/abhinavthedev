@@ -8,17 +8,10 @@
 1. Python is my first and favourite language.
 
    Let's code and grow :thumbsup:
-<table>
-   <tr>
-<a href="https://github.com/abhinav11234/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav11234&show_icons=true" />
-</a>
-   </tr>
-   <tr>
-<a href="https://github.com/abhinav11234/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav11234&layout=compact&langs_count=8&card_width=250" />
-</a>
-   </tr>
-</table>
+   
+### My GitHub Stats
+<div>
+<img align="center" width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Abhinav11234&card" alt="sarthaksavvy" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=abhinav11234&show_icons=true&locale=en" alt="abhinav" />
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhinav11234&card_width=496)](https://git.io/streak-stats)
