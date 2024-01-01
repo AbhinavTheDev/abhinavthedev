@@ -11,7 +11,7 @@
    
 ### My GitHub Stats
 <div>
-<img align="center" width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Abhinav11234&card" alt="sarthaksavvy" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=abhinav11234&show_icons=true&locale=en" alt="abhinav" />
+<img align="center" width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=AbhinavTheDev&card" alt="Abhinav" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=AbhinavTheDev&show_icons=true&locale=en" alt="abhinav" />
 </div>
 
