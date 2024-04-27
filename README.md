@@ -22,4 +22,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ayush-that&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abhinavthedev&label=Viewers&icon=0&pretty=true)](https://visitcount.itsvg.in)
