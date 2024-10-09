@@ -1,6 +1,4 @@
-<a href="https://linkfree.io/account/manage/profile" target="_blank"><img src="https://github.com/Abhinav11234/Abhinav/assets/85792055/3d46267f-ad46-40f0-8eab-b10d602a603b" /></a>
-
- <h2 align="center">Hello Folks! I am Abhinav</h2>
+<h2 align="center">Hello Folks! I am Abhinav</h2>
 <p align="center"> I love programming because it help us in visualizing the future.</p>
 
 1. Member of [**Eddiehub Community**](https://www.eddiehub.org/?r_done=1)
