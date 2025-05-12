@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
 body {
-  font-family: cursive;
+  font-family: "Noto Serif", serif;
   background-color: #fdfdfd;
   color: #000;
   margin: 0;
-  padding: 60px 20px;
+  padding: 0 20px;
   line-height: 1.8;
   font-size: 15px;
   background-image: radial-gradient(
@@ -21,13 +22,30 @@ body {
   padding: 50px 60px; /* Slightly more horizontal padding */
   /* Slightly deeper subtle shadow */
 }
+header nav ul {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0;
+  justify-content: flex-end; /* Changed to align items to the right */
+  margin: 0;
+}
 
+header nav li::before {
+  content: none; /* Remove the dash bullet created by ::before */
+}
+
+header nav li {
+  padding-left: 1rem; /* Remove padding that was used for bullets */
+}
 header {
-  margin-bottom: 80px; /* More space after header */
+  margin-top: 0;
+  margin-bottom: 40px;
   text-align: left;
   position: relative; /* For potential pseudo-elements if needed */
 }
-
+.header {
+  margin-top: 30px; /* Space between nav and header content */
+}
 header h1 {
   font-size: 1.75em; /* Slightly larger h1 */
   font-weight: normal;
@@ -143,6 +161,59 @@ hr {
   background-size: 5px 1px; /* Smaller, more subtle dots for HR */
   background-repeat: repeat-x;
   margin: 70px 0 40px 0;
+}
+/* Skills section styling */
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding-left: 0;
+}
+
+.skills-list li {
+  background-color: rgba(0, 0, 0, 0.03);
+  padding: 5px 12px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  margin-bottom: 12px;
+  color: #333;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.skills-list li::before {
+  content: none;
+}
+
+/* About section styling */
+#about p {
+  line-height: 1.8;
+  color: #333;
+  padding-left: 5px;
+}
+
+/* See more links styling */
+.see-more {
+  margin-top: 10px;
+}
+
+.see-more a {
+  font-style: italic;
+  font-size: 0.9em;
+  color: #555;
+  text-decoration-style: dotted;
+}
+
+.see-more a:hover {
+  color: #000;
+  text-decoration-style: solid;
+}
+
+.see-more::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 1px;
+  color: #555;
 }
 
 footer {

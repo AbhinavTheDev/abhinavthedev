@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abhinav's Projects</title>
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+        .project-card {
+            margin-bottom: 40px;
+            border-left: 2px solid rgba(0, 0, 0, 0.1);
+            padding-left: 20px;
+        }
+        
+        .project-title {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+            font-weight: normal;
+        }
+        
+        .project-description {
+            margin-bottom: 15px;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        .project-metrics {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 15px;
+            font-size: 0.9em;
+            color: #555;
+        }
+        
+        .project-metrics span {
+            display: flex;
+            align-items: center;
+        }
+        
+        .project-metrics svg {
+            margin-right: 5px;
+        }
+        
+        .project-link {
+            font-size: 0.9em;
+        }
+        
+        .back-link {
+            display: inline-block;
+            color: #555;
+            text-decoration: none;
+            margin-right: auto;
+            padding-right: 15px;
+        }
+        
+        .back-link:hover {
+            color: #000;
+        }
+
+        /* Navigation fixes for project page */
+        header nav {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
+        }
+        
+        header nav ul {
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            margin-top: 30px;
+            clear: both;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <nav>
+                <a href="index.html" class="back-link">← back</a>
+                <ul>
+                    <li>
+                        <a target="_blank" href="https://dev.to/abhinav-writes">blogs</a>
+                    </li>
+                    <li><a href="./project.html">projects</a></li>
+                    <li>
+                        <a target="_blank" href="https://drive.google.com/file/d/1fVUitBVJ7e0bfBQgwpZXIzM-F-gr8FBx/view?usp=sharing">resume</a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="header">
+                <h1>my <i>projects</i></h1>
+            </div>
+        </header>
+        
+        <main>
+            <section>
+                <h2>featured projects</h2>
+                <div class="projects-list">
+                    <div class="project-card">
+                        <h3 class="project-title">Coding Agent</h3>
+                        <p class="project-description">A coding assistant using LangGraph to simplify developers' tasks.</p>
+                        <div class="project-metrics">
+                            <span>
+                                <svg height="16" viewBox="0 0 16 16" width="16" aria-hidden="true"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path></svg>
+                                76 stars
+                            </span>
+                            <span>
+                                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" width="16"><path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path></svg>
+                                20 forks
+                            </span>
+                        </div>
+                        <a href="https://github.com/AbhinavTheDev/coding-agent" class="project-link" target="_blank" rel="noopener noreferrer">View on GitHub →</a>
+                    </div>
+                    
+                    <div class="project-card">
+                        <h3 class="project-title">Research Agent</h3>
+                        <p class="project-description">A research agent that generates researches using NLP and web scraping.</p>
+                        <div class="project-metrics">
+                            <span>
+                                <svg height="16" viewBox="0 0 16 16" width="16" aria-hidden="true"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path></svg>
+                                40 stars
+                            </span>
+                            <span>
+                                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" width="16"><path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path></svg>
+                                7 forks
+                            </span>
+                        </div>
+                        <a href="https://github.com/AbhinavTheDev/research-agent" class="project-link" target="_blank" rel="noopener noreferrer">View on GitHub →</a>
+                    </div>
+                    
+                    <div class="project-card">
+                        <h3 class="project-title">Rock Paper Scissors Game</h3>
+                        <p class="project-description">Built with hand recognition and AI for an interactive gaming experience.</p>
+                        <a href="https://github.com/AbhinavTheDev/rock-paper-scissors" class="project-link" target="_blank" rel="noopener noreferrer">View on GitHub →</a>
+                    </div>
+                    
+                    <div class="project-card">
+                        <h3 class="project-title">JSquel</h3>
+                        <p class="project-description">SQL-lite implementation in JavaScript for client-side data management.</p>
+                        <a href="https://github.com/AbhinavTheDev/jsquel" class="project-link" target="_blank" rel="noopener noreferrer">View on GitHub →</a>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <hr />
+            <nav>
+                <a href="mailto:abhinavmittal774@outlook.com" target="_blank" rel="noopener noreferrer">Email</a> |
+                <a href="https://github.com/AbhinavTheDev/" target="_blank" rel="noopener noreferrer">github</a> |
+                <a href="https://www.linkedin.com/in/say-hi-to-abhinav/" target="_blank" rel="noopener noreferrer">linkedin</a>
+            </nav>
+            <p class="copyright">© <span id="currentYear"></span> Abhinav</p>
+        </footer>
+    </div>
+
+    <script>
+        document.getElementById("currentYear").textContent = new Date().getFullYear();
+    </script>
+</body>
+</html>
