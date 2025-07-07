@@ -87,10 +87,11 @@ Blog Posts:
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Potion: Intelligent Notes Assistant using MindsDB](https://dev.to/abhinav-writes/meet-potion-your-smart-note-taking-companion-3bb8)
-- [Building Rock Paper Scissors Game with AI by Amazon Q](https://dev.to/abhinav-writes/building-rock-paper-scissors-game-with-ai-by-amazon-q-30pe)
+- [Meet Potion: Your Smart Note-Taking Companion](https://dev.to/abhinav-writes/meet-potion-your-smart-note-taking-companion-3bb8)
+- [Access and Refresh Token Explained](https://dev.to/abhinav-writes/access-and-refresh-token-explained-303o)
+- [Building Rock Paper Scissors Game with AI 💥by Amazon Q](https://dev.to/abhinav-writes/building-rock-paper-scissors-game-with-ai-by-amazon-q-30pe)
+- [AI: The Research Companion](https://dev.to/abhinav-writes/ai-the-research-companion-mj9)
 - [AI Agents: The Future of Intelligent Automation](https://dev.to/abhinav-writes/ai-agents-the-future-of-intelligent-automation-4ge1)
-- [The 4 Essential Pillars of Object-Oriented Programming Explained](https://devcodex.hashnode.dev/the-4-essential-pillars-of-object-oriented-programming-explained)
 <!-- BLOG-POST-LIST:END -->
 
 
