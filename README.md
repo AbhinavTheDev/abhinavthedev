@@ -87,11 +87,11 @@ Blog Posts:
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Office Table - CSS ART Edition](https://dev.to/abhinav-writes/office-table-css-art-edition-1gmp)
 - [How Generative AI is Being Used in New Ways](https://dev.to/abhinav-writes/how-generative-ai-is-being-used-in-new-ways-32g2)
 - [Meet Potion: Your Smart Note-Taking Companion](https://dev.to/abhinav-writes/meet-potion-your-smart-note-taking-companion-3bb8)
 - [Access and Refresh Token Explained](https://dev.to/abhinav-writes/access-and-refresh-token-explained-303o)
 - [Building Rock Paper Scissors Game with AI 💥by Amazon Q](https://dev.to/abhinav-writes/building-rock-paper-scissors-game-with-ai-by-amazon-q-30pe)
-- [AI: The Research Companion](https://dev.to/abhinav-writes/ai-the-research-companion-mj9)
 <!-- BLOG-POST-LIST:END -->
 
 
