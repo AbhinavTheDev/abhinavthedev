@@ -87,11 +87,11 @@ Blog Posts:
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows&#39; Dual-Shell Strategy and macOS&#39;s Unified Terminal Approach](https://dev.to/abhinav-writes/windows-dual-shell-strategy-and-macoss-unified-terminal-approach-5ghh)
 - [Algolia MCP Chat](https://dev.to/abhinav-writes/algolia-mcp-chat-147)
 - [Office Table - CSS ART Edition](https://dev.to/abhinav-writes/office-table-css-art-edition-1gmp)
 - [How Generative AI is Being Used in New Ways](https://dev.to/abhinav-writes/how-generative-ai-is-being-used-in-new-ways-32g2)
 - [Meet Potion: Your Smart Note-Taking Companion](https://dev.to/abhinav-writes/meet-potion-your-smart-note-taking-companion-3bb8)
-- [Access and Refresh Token Explained](https://dev.to/abhinav-writes/access-and-refresh-token-explained-303o)
 <!-- BLOG-POST-LIST:END -->
 
 
