@@ -3,7 +3,7 @@
   <p><em>Building real-world solutions through code</em></p>
   
   [![Twitter: abhinav_twts](https://img.shields.io/twitter/follow/abhinav_twts?style=social)](https://twitter.com/abhinav_twts)
-  [![Linkedin: say-hi-to-abhinav](https://img.shields.io/badge/-Abhinav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/say-hi-to-abhinav/)](https://www.linkedin.com/in/say-hi-to-abhinav/)
+  [![Linkedin: say-hi-to-abhinav](https://img.shields.io/badge/-Abhinav-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/say-hi-to-abhinav/)](https://www.linkedin.com/in/say-hi-to-abhinav/)
   [![GitHub: AbhinavTheDev](https://img.shields.io/github/followers/AbhinavTheDev?label=follow&style=social)](https://github.com/AbhinavTheDev)
 </div>
 
@@ -106,7 +106,9 @@ Blog Posts:
 
 <div align="center">
   <a href="https://twitter.com/abhinav_twts" target="_blanck"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/say-hi-to-abhinav" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+  <a href="https://linkedin.com/in/say-hi-to-abhinav" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white" /></a>
+  <a href="https://peerlist.io/abhinavthedev" target="_blanck"><img src="https://img.shields.io/badge/Peerlist-%46E600.svg?logo=Peerlist&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/a4abhi.bsky.social" target="_blanck"><img src="https://img.shields.io/badge/Bluesky-2D92F6.svg?logo=Bluesky&logoColor=white" /></a>
   <a href="https://youtube.com/@DevAbhinav" target="_blanck"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 </div>
 
