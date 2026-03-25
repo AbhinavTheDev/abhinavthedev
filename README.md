@@ -65,7 +65,7 @@
       <th>Cloud</th>
     </tr>
     <td>
-        <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" />
+        <img src="https://mongoosejs.com/docs/images/mongoose.svg" alt="Mongoose" width="70" height="25" />
     </td>
     <td>
         <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
@@ -94,13 +94,12 @@ Blog Posts:
 - [How Generative AI is Being Used in New Ways](https://dev.to/abhinav-writes/how-generative-ai-is-being-used-in-new-ways-32g2)
 <!-- BLOG-POST-LIST:END -->
 
-
-## 🏅 Badges
-
+<details>
+  <summary><h2>🏅 Badges</h2></summary>
 <div>
-<a href="https://api.badgr.io/public/assertions/nXENiYVxTReKAcMftWe0hA"><img src="https://api.badgr.io/public/assertions/nXENiYVxTReKAcMftWe0hA/image" width="140" alt="Postman Mock Magician"></a> <a href="https://api.badgr.io/public/assertions/YAFrW-T-RFuwvjPAT_BMLA"><img src="https://api.badgr.io/public/assertions/YAFrW-T-RFuwvjPAT_BMLA/image" width="140" alt="Pieces GenAI" /></a> <a href="https://api.badgr.io/public/assertions/vmkDyK_tT0e-9xC1-p34yQ"><img src="https://api.badgr.io/public/assertions/vmkDyK_tT0e-9xC1-p34yQ/image" width="140" alt="Postman API Fundamentals" /></a>
+<a href="https://api.badgr.io/public/assertions/nXENiYVxTReKAcMftWe0hA"><img src="https://api.badgr.io/public/assertions/nXENiYVxTReKAcMftWe0hA/image" width="100" alt="Postman Mock Magician"></a> <a href="https://api.badgr.io/public/assertions/YAFrW-T-RFuwvjPAT_BMLA"><img src="https://api.badgr.io/public/assertions/YAFrW-T-RFuwvjPAT_BMLA/image" width="100" alt="Pieces GenAI" /></a> <a href="https://api.badgr.io/public/assertions/vmkDyK_tT0e-9xC1-p34yQ"><img src="https://api.badgr.io/public/assertions/vmkDyK_tT0e-9xC1-p34yQ/image" width="100" alt="Postman API Fundamentals" /></a><a href="https://www.skills.google/public_profiles/40b635fb-3abd-4b63-be42-82457bbc5230/badges/6252036"><img src="https://cdn.qwiklabs.com/9poOf57LuORMVF8FKZFbvixWJXJMPyilc7IlXcG9H8I%3D" alt="Intro to Gen AI" width="100" /></a><a href="https://www.skills.google/public_profiles/40b635fb-3abd-4b63-be42-82457bbc5230/badges/6251709?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share"><img src="https://cdn.qwiklabs.com/GbE0vMkX0feHyWqOO%2BGjhY%2BtBalAeiOShIAWiuMew2o%3D" alt="Intro to LLMs" width="100" /></a><a href="https://www.skills.google/public_profiles/40b635fb-3abd-4b63-be42-82457bbc5230/badges/6252195"><img src="https://cdn.qwiklabs.com/Bej3HGFf268lfrs5oZpmHEhxpCmRwxCsiXAIaIwJfPk%3D" alt="ResponsibleAI" width="100" /></a><img src="https://developers.google.com/static/profile/badges/activity/idx/idx-user/badge.svg" width="100" alt="IDX Developer" /><img src="https://developers.google.com/static/profile/badges/community/firebasestudio/firebase-studio/badge.svg" alt="firebase studio" width="100" />
 </div>
-
+</details>
 
 ## 🤝 Let's Connect!
 
