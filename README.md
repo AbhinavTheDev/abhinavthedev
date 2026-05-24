@@ -109,6 +109,7 @@ Blog Posts:
   <a href="https://peerlist.io/abhinavthedev" target="_blanck"><img src="https://img.shields.io/badge/Peerlist-%46E600.svg?logo=Peerlist&logoColor=white" /></a>
   <a href="https://bsky.app/profile/a4abhi.bsky.social" target="_blanck"><img src="https://img.shields.io/badge/Bluesky-2D92F6.svg?logo=Bluesky&logoColor=white" /></a>
   <a href="https://youtube.com/@DevAbhinav" target="_blanck"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="https://www.threads.com/@abhinav.11234" target="_blanck"><img src="https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white" /></a>
 </div>
 
 ---
