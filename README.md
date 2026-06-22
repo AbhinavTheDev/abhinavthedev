@@ -87,11 +87,11 @@ Blog Posts:
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Monorepo ?](https://dev.to/abhinav-writes/what-is-monorepo--31dd)
+- [A Memory Game to enjoy this summer](https://dev.to/abhinav-writes/a-memory-game-to-enjoy-this-summer-4n11)
 - [Bigger llm models will no longer be performant](https://dev.to/abhinav-writes/bigger-llm-models-will-no-longer-be-performant-4nip)
 - [Meet Super Banana 🍌](https://dev.to/abhinav-writes/meet-super-banana-7hf)
 - [Windows&#39; Dual-Shell Strategy and macOS&#39;s Unified Terminal Approach](https://dev.to/abhinav-writes/windows-dual-shell-strategy-and-macoss-unified-terminal-approach-5ghh)
-- [Algolia MCP Chat](https://dev.to/abhinav-writes/algolia-mcp-chat-147)
-- [Office Table - CSS ART Edition](https://dev.to/abhinav-writes/office-table-css-art-edition-1gmp)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
